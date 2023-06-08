@@ -9,5 +9,8 @@ Dashboard includes the following :
 * Casualties by Road Type for Current year
 * Current Year Casualties by Area/ Location & by Day/Night
 * Total Casualties and Total Accidents by Location
+
+![Screenshot (213)](https://github.com/Prasanna-Yarra/Road-Accident-Analysis-using-Power-BI/assets/108613915/ca42bee2-53de-49ba-8b12-d79e8ae1641a)
+
 # Data Source
 https://drive.google.com/file/d/1lJNxdfBYr_x2OGIlMr5BeN71m-dINmyC/view?usp=sharing
